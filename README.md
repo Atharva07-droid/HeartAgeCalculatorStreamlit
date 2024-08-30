@@ -1,7 +1,7 @@
 Heart Age Calculator
 Welcome to the Heart Age Calculator project!
 
-You can access the application directly by visiting [this link](https://atharva07-droid.github.io/Heart_Age_Calculator/home.html).
+You can access the application directly by visiting [this link](https://heartagecalculatorapp.streamlit.app/).
 
 Project Description
 This project allows you to calculate your heart age based on various health and lifestyle factors.
